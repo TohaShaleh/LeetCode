@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,8 +24,14 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
