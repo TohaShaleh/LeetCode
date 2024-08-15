@@ -7,6 +7,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TohaShaleh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
