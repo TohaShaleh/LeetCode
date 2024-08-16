@@ -12,47 +12,22 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
 
-        // Reverse linked list by value
-
-        // ListNode *temp;
-        // temp=head;
-        // vector<int>v;
-        // while(temp)
-        // {
-        //     v.push_back(temp->val);
-        //     temp=temp->next;
-        // }
-        // int i=v.size()-1;
-        // temp=head;
-        // while(temp)
-        // {
-        //     temp->val=v[i];
-        //     i--;
-        //     temp=temp->next;
-        // }
-        // return head;
-
-
-        // Reverse linked list by reversing Nodelist
-
-        ListNode *temp1,*temp,*head1;
+        ListNode *temp1,*prev,*curr,*temp;
+        prev=nullptr;
+        curr=head;
         temp=head;
-        head1=nullptr;
-        while(temp)
+        while(curr)
         {
-            if(head1==nullptr)
-            {
-                head1=new ListNode(temp->val);
-            }
-            else
-            {
-                temp1=new ListNode(temp->val);
-                temp1->next=head1;
-                head1=temp1;
-            }
-            temp=temp->next;
+            temp1=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=temp1;
+
         }
-        return head1;
+        
+        head=prev;
+
+        return head;
         
     }
 };
