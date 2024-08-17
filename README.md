@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TohaShaleh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/TohaShaleh/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -87,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/TohaShaleh/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TohaShaleh/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TohaShaleh/LeetCode/tree/master/0342-power-of-four) |
