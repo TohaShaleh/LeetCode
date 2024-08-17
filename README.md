@@ -75,6 +75,7 @@
 | [0206-reverse-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/TohaShaleh/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -84,8 +85,10 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/TohaShaleh/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/TohaShaleh/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
