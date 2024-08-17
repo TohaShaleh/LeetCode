@@ -91,6 +91,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/TohaShaleh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/TohaShaleh/LeetCode/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/TohaShaleh/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
