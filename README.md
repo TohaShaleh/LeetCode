@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0857-positions-of-large-groups](https://github.com/TohaShaleh/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TohaShaleh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TohaShaleh/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TohaShaleh/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TohaShaleh/LeetCode/tree/master/0326-power-of-three) |
@@ -100,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/TohaShaleh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TohaShaleh/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/TohaShaleh/LeetCode/tree/master/0338-counting-bits) |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/TohaShaleh/LeetCode/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
