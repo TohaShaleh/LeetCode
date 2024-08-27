@@ -2,21 +2,20 @@ class Solution {
 public:
     int countPairs(vector<int>& nums, int target) {
         sort(nums.begin(),nums.end());
-        int i,j,ans=0;
-        for(i=0;i<nums.size();i++)
+        int left=0,right=nums.size()-1,ans=0;
+        while(left<right)
         {
-            for(j=i+1;j<nums.size();j++)
+            if(nums[left]+nums[right]<target)
             {
-                if(nums[i]+nums[j]<target)
-                {
-                    ans++;
-                }
-                else
-                {
-                    break;
-                }
+                ans+=right-left;
+                left++;
+            }
+            else
+            {
+                right--;
             }
         }
+        
         return ans;
         
     }
