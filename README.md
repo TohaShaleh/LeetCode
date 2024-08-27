@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TohaShaleh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TohaShaleh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/TohaShaleh/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
