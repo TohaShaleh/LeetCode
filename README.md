@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TohaShaleh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
