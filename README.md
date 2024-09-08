@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TohaShaleh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TohaShaleh/LeetCode/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0857-positions-of-large-groups](https://github.com/TohaShaleh/LeetCode/tree/master/0857-positions-of-large-groups) |
@@ -98,6 +99,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TohaShaleh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
