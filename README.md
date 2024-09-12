@@ -10,6 +10,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TohaShaleh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -40,6 +41,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TohaShaleh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/TohaShaleh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TohaShaleh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -162,4 +164,8 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/TohaShaleh/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TohaShaleh/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/TohaShaleh/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
