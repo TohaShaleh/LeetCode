@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TohaShaleh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/TohaShaleh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/TohaShaleh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -86,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/TohaShaleh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TohaShaleh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
