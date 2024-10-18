@@ -12,6 +12,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/TohaShaleh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/TohaShaleh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
@@ -92,6 +94,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TohaShaleh/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/TohaShaleh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -175,4 +178,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TohaShaleh/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/TohaShaleh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
