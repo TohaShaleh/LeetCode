@@ -12,6 +12,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2048-build-array-from-permutation](https://github.com/TohaShaleh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TohaShaleh/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/TohaShaleh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TohaShaleh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TohaShaleh/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -44,6 +45,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TohaShaleh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TohaShaleh/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TohaShaleh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TohaShaleh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -55,6 +57,7 @@
 | [0857-positions-of-large-groups](https://github.com/TohaShaleh/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0953-reverse-only-letters](https://github.com/TohaShaleh/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TohaShaleh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TohaShaleh/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TohaShaleh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/TohaShaleh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TohaShaleh/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
